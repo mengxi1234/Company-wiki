@@ -1,0 +1,4 @@
+interface:
+  display_name: "Company LLM Wiki Equity"
+  short_description: "维护公司研究 Wiki、证据链和图谱"
+  default_prompt: "Use $company-llm-wiki-equity to ingest filings, research, transcripts, and news into my Company-LLM-Wiki vault."
